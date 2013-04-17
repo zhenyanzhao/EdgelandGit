@@ -5,7 +5,9 @@ using System.Text;
 
 namespace SecondProject
 {
-    class Class1
+    public class Class1
     {
+        public Class1()
+        {}
     }
 }
